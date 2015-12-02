@@ -1,0 +1,6 @@
+//@author A0117993R
+package logic;
+
+public enum CommandEnum {
+	ADD, DISPLAY, DELETE, UPDATE, CLEAR, SORT, SEARCH, BLOCK, QUIT, INVALID, UNDO, SYNC, EXPAND, COMPLETE
+}
